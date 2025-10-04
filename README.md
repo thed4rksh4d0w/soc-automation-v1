@@ -5,8 +5,7 @@ This project demonstrates a powerful security automation workflow that automates
 The entire lab environment was built from scratch, including setting up virtual machines for Splunk and Windows 10 endpoints.
 
 *Watch the final demonstration video:*
-
-*(Here you can optionally convert the video you sent me (`Screen Recording 2025-10-05 012927.mp4`) to a GIF and embed it)*
+(https://youtu.be/y_QDmFpD5vQ)
 
 ### Key Features
 
